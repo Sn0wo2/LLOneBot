@@ -22,6 +22,7 @@ TG 群：<https://t.me/+nLZEnpne-pQ1OWFl>
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LLOneBot/LLOneBot.svg?variant=adaptive)](https://starchart.cc/LLOneBot/LLOneBot)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FLLOneBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FLLOneBot?ref=badge_shield)
 
 ## 鸣谢
 
@@ -34,3 +35,7 @@ TG 群：<https://t.me/+nLZEnpne-pQ1OWFl>
 ## 友链
 
 - [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core): An Implementation of NTQQ Protocol
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FLLOneBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FLLOneBot?ref=badge_large)
